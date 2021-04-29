@@ -6,32 +6,32 @@ body {
   font-family: sans-serif;
   text-decoration: underline;
 }
-
-.image-title{
+\n
+.image-title {
   color: cornflowerblue;
   font-family: sans-serif;
 }
-
+\n
 .mk-image {
   height: 200px;
   width: 200px;
 }
-
+\n
 .history-title {
   color: cornflowerblue;
   font-family: sans-serif;
 }
-
+\n
 .contributions-title {
   color: cornflowerblue;
   font-family: sans-serif;
 }
-
+\n
 .quote-title {
   color: cornflowerblue;
   font-family: sans-serif;
 }
-
+\n
 .quote {
   font-style: italic;
   font-weight: bold;
